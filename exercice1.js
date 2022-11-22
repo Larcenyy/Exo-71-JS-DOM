@@ -1,4 +1,4 @@
-let myDelete = document.getElementById("aSupprimer").style.display = 'none';
+document.getElementById("aSupprimer").style.display = 'none';
 
 let monDiv = document.createElement('div');
 document.getElementById('viewport').appendChild(monDiv);
